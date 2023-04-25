@@ -1,0 +1,872 @@
+:root {
+	--browm-color: #38251E;
+	--browm-light-color:#41362F;
+	--bege-color:#D7A47C;
+	--bege-light-color:#F0DDCA;
+}
+.esquerda{
+	margin-top: 65px;
+	float: left;
+	width: 60%;
+	font-size: 12.9px;
+}
+.vector-left{
+	margin-left:-111px;
+	margin-top:-305px;
+}
+.right{
+	float:right;
+	margin-right: 28px;
+	margin-top: 22px;
+	margin-left:22px;
+	height: 0px;
+	
+}
+
+.image-wrapper{
+	width:421px;
+	border-bottom-left-radius: 32%;
+}
+
+.card1{
+	position: absolute;
+width: 368px;
+height: 400px;
+left: 58px;
+top: 777px;
+background-image: url(images/Sem\ Título-1.jpg);
+  }
+.card-body{
+width: 315.41px;
+height: 50px;
+left: 170px;
+top: 1562px;
+}
+h5.card-title{
+	position: absolute;
+width: 235px;
+height: 43px;
+left: 71px;
+top: 328px;
+font-family: 'Frank Ruhl Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+text-transform: uppercase;
+padding-top:9px;
+color: #38251E;
+background-color:white;
+}
+.card2{
+	position: absolute;
+width: 368px;
+height: 400px;
+left: 468px;
+top: 777px;
+background-image: url(images/model2.jpg);
+  }
+
+  .card3{
+	position: absolute;
+width: 368px;
+height: 400px;
+left: 878px;
+top: 777px;
+background-image: url(images/12.jpg);
+  }
+  .vector-ret{
+	margin-left:334px;
+	margin-top:320px;
+}
+div.retangulo{
+	position: absolute;
+width: 163px;
+height: 175px;
+left: 312px;
+top: 294px;
+background: #F0DDCA;
+opacity: 0.2;
+}
+.background-wrapper1{
+	background-color: #F0DDCA;;
+}
+.wrapper1{
+	margin-left:7%;
+	margin-right:0%;
+	margin-bottom:0px;
+	border-style: none;
+	border-width:0cm;
+	border-color: #38251E;
+	padding-bottom: 0px;
+	padding-top:37px;
+	padding-left: 0%;
+	padding-right: 8%;
+	background-color:#F0DDCA;
+}
+
+.txt-esq-wrapper{
+	font-family: 'Frank Ruhl Libre';
+}
+div.vect{
+	width: 100px;
+	font-size: 14px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+div.vec{
+	padding-left:1px;
+	transform:rotate(25deg);
+	color: black;
+}
+.vector{
+	margin-left:-24px;
+	margin-top:-195px;
+}
+.vector2{
+	margin-left: 393px;
+	margin-top:-331px;
+}
+.background-vector{
+	width: 1397px;
+	margin-left: -155px;
+	margin-top:72px;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	padding-bottom: 3%;
+}
+nav.navbar{
+	margin-left: -16px;
+	padding-right: 50px;
+	border-right-width: 50px;
+	
+}
+a.nav-link{
+	font-size: 18px;
+}
+
+button.btn{
+	padding-right:65px;
+	padding-left:65px;
+}
+ul.navbar-nav{
+	margin-left:46px;
+	font-weight: bold;
+	text-shadow: -1px 0 black, 0 1px black, 4px 5px 5px black, 0 -1px black;
+}
+a.navbar-brand{
+	font-size: 15px;
+	color:#38251E;
+}
+.esq-wr3{
+	margin-top: -98px;
+	float: left;
+	width: 35%;
+	font-size: 12.9px;
+	margin-left: 118px;
+
+}
+h1.wrapper-esquerda{
+	font-size: 2.7rem;
+	font-weight: bold;
+	margin-top: 33px;
+	font-family: 'Frank Ruhl Libre';
+	color:#38251E;
+}
+
+.btn-compre-shop-now{
+	background-color:#38251E;
+	color:white;
+	padding-left:25px;
+	padding-right: 25px;
+	padding-bottom: 15px;
+	padding-top:15px;
+}
+button.btn{
+	margin-right:-27px;
+}
+section.ourproducts_section{
+	margin-top:62px;
+}
+.txt-wrapper{
+	font-family: 'Frank Ruhl Libre';
+	color:#38251E;
+text-align: center;
+}
+.textarea-wrapper{
+	font-family: 'Frank Ruhl Libre';
+margin-top: 46px;
+text-align: center;
+}
+.wrapper{
+	margin-top: 42px;
+    width: 1358px;
+    height: 354px;
+
+}
+.card-deck-header {
+	display: inline-block;
+	margin-top: 36px;
+	margin-bottom: 36px;
+  }
+
+.vector-3{
+	margin-left: 459px;
+	margin-top:302px;
+}
+
+.retangulo2{
+	position: absolute;
+width: 125px;
+height: 125px;
+left: 56px;
+top: 1633px;
+background: #D7A47C;
+opacity: 0.2;
+}
+.style{
+	border-top-left-radius: 32%;
+}
+.melhorestilo{
+	margin-bottom: 0.5rem;
+	font-weight: 500;
+	color:#38251E;
+	font-family: 'Frank Ruhl Libre';
+	font-size: 68px;
+	margin-bottom: 27px;
+}
+.footer-wrapper3{
+	width:667px;
+	height:127px;
+	margin-top:-59px;
+	margin-left:234px;
+	color:#38251E;
+	font-family: 'Frank Ruhl Libre';
+	font-size: 32px;
+	padding: 12px;
+	box-shadow: 0 0px black, 0 1px black, -10px 15px 45px black, 0 0px black;
+	text-align: center;
+}
+.col-md-4{
+	background: white;
+}
+	.m{
+	font-size: 16px;
+	}
+	.liney{
+	transform: rotate(90deg);
+	color: black;
+	margin-left: -133px;
+	margin-top:-72px;
+	}
+	.liney2{
+		transform: rotate(90deg);
+	color: black;
+	margin-left: 341px;
+	margin-top:-115px;
+	}
+	.footer-wrapper3{
+		background-color: white;
+	}
+	.card-deck{
+		width: 79%;
+		float:right;
+	}
+	.wrapper4{
+		margin: 136px;;
+	}
+.carousel{
+	margin-left:420px;
+}
+.carouselExampleControls{
+	width: 100%;
+	
+}
+	.cards-wrapper{
+		display: flex;
+ 
+	 }
+	
+	.card{
+		background-color:#F7F7F7;
+		margin:  23px 0 18px 2.5em;
+		margin-right: 6px;
+	}
+	.card-body-mais{
+		width: 315.41px;
+height: 115px;
+left: 170px;
+top: 1562px;
+	}
+	.card-img-top{
+		width: 200px;;
+	}
+	.card-body2{
+		color:#41362F;
+		margin-top:18px;
+
+	}
+	.element::before{
+		content: "\2605";
+		color: #FFC960;
+		background-color: #38251E;
+		border-radius: 30px;
+		
+	}
+	
+	.card-text{
+		font-family: 'Frank Ruhl Libre';
+	}
+	.text-muted{
+		text-decoration: line-through;
+	}
+	.background-wrapper4{
+		background-color: #38251E;
+		width: 1464px;
+		height: 441px;
+		margin-left:-128px;
+		margin-top: -157px;
+
+	}
+	a.carousel-control-prev{
+		width: 100%;
+	}
+	a.carousel-control-next{
+		width: 100%;
+	}
+	.btn-saiba-mais{
+		padding: 2px;
+		background-color: #38251E;
+		color:white;
+		font-family: 'Frank Ruhl Libre';
+		padding-left: 20px;
+		padding-right: 20px;
+		border-color: white;
+		margin-left:-294px;
+		margin-top:216px;
+	}
+	.content{
+		margin-top: -180px;
+	}
+.image-front{
+	width: 245px;
+	height: 245px;
+}
+.galeria-icon{
+	width: 180px;
+	width: 79%;	
+	margin-top: 36px;;	
+}
+.card-text-gallery{
+	margin-left:60px;
+	font-family: 'Frank Ruhl Libre';
+	background-color:#F7F7F7;
+}
+.card-body-gallery{
+	color:#41362F;
+	position:absolute;
+	width: 18%;
+	background:#F7F7F7;
+}
+.galeria-item{
+	margin: 44px 118px 5rem;
+	display: flex;
+	
+}
+.elemento-margem{
+	margin-left: 60px;
+}
+.expira-tempo{
+	background: #F0DDCA;
+	margin-top:158px;
+	height: 620px;
+}
+.promocao{
+	display: flex;
+}
+
+#vector-banner{
+margin-left:329px;
+margin-top:-269px;
+}
+.slogan{
+	margin-right:263px;
+	margin-top:211px;
+}
+#col-md-6{
+	border-top-width: 50px;
+	border-bottom-width: 50px;
+	
+	color:#41362F;
+	font-size: 55px;;
+}
+#row{
+	margin-top: 141px;
+	margin-left:145px;
+}
+.limite{
+	font-family: 'Inter';
+	display: flex;
+	margin-top: 36px;
+}
+label.cabecaleo{
+	font-family: 'Frank Ruhl Libre';
+}
+label.rodape-cabecaleo{
+	font-family: 'Frank Ruhl Libre';
+	font-size: 17px;
+}
+.dia{
+	margin-left:15px;
+	font-size: 48px;
+	margin-left: 15px;
+}
+.txt-dia{
+	font-size: 16px;
+	margin-left: 31px;
+	margin-top:-23px;
+}
+.hora{
+	font-size:48px;
+	margin-left: 15px;
+}
+.txt-hrs{
+	font-size: 16px;
+	margin-left: 15px;
+	margin-top:-23px;
+}
+.minutos{
+	font-size:48px;
+	margin-left: 15px;
+}
+.txt-min{
+	font-size: 16px;
+	margin-left: 15px;
+	margin-top:-23px;
+}
+.clock{
+	margin-left: 10px; 
+	background: white; 
+	width: 100px;
+	height: 100px;
+}
+.horas{
+	margin-left: 31px;
+	width: 100px;
+	height: 100px;
+	background: white; 
+}
+.btn-class{
+	font-size:18px;
+	width: 218px;
+	height:48px;
+	background-color: #41362F;
+	color:#F7F7F7;
+margin-top: 45px;
+}
+.wrapper7{
+	margin-top:54px;
+	margin-bottom:407px;
+}
+.wrapper7-esquerda{
+font-family: 'Frank Ruhl Libre';
+color:#38251E;
+text-align: center;
+}
+.txt-esq-wrapper7{
+font-family: 'Frank Ruhl Libre';
+color:#38251E;
+text-align: center;
+}
+
+.persona1{
+width: 80px;
+border-bottom-right-radius: 50%;
+border-top-right-radius:  50%;
+border-bottom-left-radius:  50%;
+border-top-left-radius:  50%;
+}
+.persona2{
+width: 80px;
+border-bottom-right-radius: 50%;
+border-top-right-radius:  50%;
+border-bottom-left-radius:  50%;
+border-top-left-radius:  50%;
+}
+.persona3{
+width: 80px;
+border-bottom-right-radius: 50%;
+border-top-right-radius:  50%;
+border-bottom-left-radius:  50%;
+border-top-left-radius:  50%;
+}
+.txt-name{
+font-family: 'Inter';
+color: #38251E;
+}
+.txt-profissao{
+	font-family: 'Inter';
+color: #38251E;	
+}
+.elemento{
+	text-align: center;
+	color: #38251E;
+	font-family: 'Frank Ruhl Libre';
+}
+.coluna1{
+	margin-left: 48px;
+}
+.coluna2{
+	margin-left: 512px;
+}
+.coluna3{
+	margin-left: 976px;
+}
+.widget-wrap{
+	width: 400px;
+	background: #F0DDCA;
+	position:absolute;
+	margin:4px;
+	padding:23px;
+margin-left: -84px;
+margin-top:20px;
+}
+.divr-flash{
+	width: 102%;
+	padding-right: 11px;
+	padding-left: 11px;
+	margin-right: 106px;
+	margin-left: -31px;
+}
+.grife{
+	width: 253px;
+	margin:-2px;
+}
+.wrapper8{
+background-color: #38251E;
+height: 200px;
+}
+.redesocial{
+	background: white;
+	font-family: 'Frank Ruhl Libre';
+	color: #38251E;
+	text-align: center;
+	width: 664px;
+	padding-top: 22px;
+	margin-left:350px;
+	margin-top:-95px
+}
+
+.links{
+	font-family: 'Inter';
+	color: #F7F7F7;
+	font-size: 18px;
+	margin-right: 132px;
+	margin-left: 285px;
+	margin-top: -129px;
+}
+.copy{
+	font-family: 'Frank Ruhl Libre';
+	color: #F7F7F7;
+	text-align: center;
+	padding-top: 103px;
+}
+.rolagem{
+	margin-top: 0px;
+}
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	background: #ffffff;
+  }
+  
+  a {
+	transition: .3s;
+  }
+  
+  a:hover,
+  a:active,
+  a:focus {
+	outline: none;
+	text-decoration: none;
+  }
+  
+  .footer {
+	position: relative;
+	padding-top: 45px;
+	background: #F0DDCA;
+  }
+  
+  .footer .footer-blog,
+  .footer .footer-insta,
+  .footer .footer-tags,
+  .footer .footer-newsletter {
+	position: relative;
+	margin-bottom: 45px;
+
+  }
+  
+  .footer .footer-blog h3,
+  .footer .footer-insta h3,
+  .footer .footer-tags h3,
+  .footer .footer-newsletter h3 {
+	position: relative;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	font-size: 18px;
+	font-weight: 400;
+	color: #38251E;
+  }
+  
+  .footer .footer-blog h3::after,
+  .footer .footer-insta h3::after,
+  .footer .footer-tags h3::after,
+  .footer .footer-newsletter h3::after {
+	position: absolute;
+	content: "";
+	width: 50px;
+	height: 2px;
+	left: 0;
+	bottom: 0;
+	background: #38251E;
+  }
+  
+  .footer .footer-blog div {
+	position: relative;
+  }
+  
+  .footer .footer-blog div a {
+	display: block;
+	margin-bottom: 5px;
+	font-size: 16px;
+	color: #38251E;
+  }
+  
+  .footer .footer-blog div a:hover {
+	color: #0085ff;
+  }
+  
+  .footer .footer-blog div p {
+	padding-left: 20px;
+	color: #757575;
+	font-size: 13px;
+	font-weight: 600;
+	letter-spacing: 1px;
+  }
+  
+  .footer .footer-blog div p::before {
+	position: absolute;
+	content: "\f017";
+	font-family: "Font Awesome 5 Free";
+	font-weight: 400;
+	color: #757575;
+	left: 15px;
+  }
+  
+  .footer .footer-insta {
+	float: left;
+	font-size: 0;
+  }
+  
+  .footer .footer-insta a {
+	padding: 0 5px 5px 0;
+	display: block;
+	width: 33.33%;
+	float: left;
+  }
+  
+  .footer .footer-insta a img {
+	width: 100%;
+  }
+  
+  .footer .footer-tags {
+	font-size: 0;
+  }
+  
+  .footer .footer-tags a {
+  
+	display: inline-block;
+	margin: 0 5px 5px 0;
+	padding: 2px 7px;
+	font-size: 15px;
+	color: #38251E;
+	text-transform: capitalize;
+	border: 1px solid #38251E;
+	border-radius: 6px;
+  
+  }
+  
+  .footer .footer-tags a:hover {
+	color: #F0DDCA;
+	background: #38251E;
+	border-color: #F0DDCA;
+  }
+  
+  .footer .footer-newsletter .form {
+	
+	position: relative;
+	width: 100%;
+  
+  }
+  
+  .footer .footer-newsletter .campo {
+	
+	width: 100%;
+	height: 45px;
+	float: left;
+	border: 1px solid #41362F;
+	background: #41362F;
+	margin-bottom: 15px;
+	border-radius: 6px;
+	outline: none;
+	padding: 5px 10px;
+	color: #cccccc;
+  
+  }
+  
+  .footer .footer-newsletter .campo:focus {
+	
+	color:#cccccc!important;
+  
+  }
+  
+  .footer .footer-newsletter .btn {
+  
+	display: block;
+	width: 100%;
+	height: 45px;
+	padding: 8px 20px;
+	font-size: 16px;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #cccccc;
+	background: #38251E;
+	border-radius: 0;
+	border: 1px solid #D7A47C;
+	transition: .3s;
+	border-radius: 6px;
+  
+  }
+  
+  .footer .footer-newsletter .btn:hover {
+	color: #38251E;
+	background: #222121;
+	border-color: #222121;
+  }
+  
+  .footer .footer-newsletter .btn:focus {
+	box-shadow: none;
+  }
+  
+  .footer .footer-contact {
+	position: relative;
+	padding: 25px 0;
+	text-align: center;
+	border-top: 1px solid rgba(256, 256, 256, .1);
+  }
+  
+  .footer .footer-contact h4 {
+	position: relative;
+	margin-bottom: 10px;
+	font-size: 18px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	color: #38251E;
+  }
+  
+  .footer .footer-contact p {
+	margin: 0;
+	font-size: 16px;
+	color: #38251E;
+  }
+  
+  .footer .footer-contact a {
+	display: inline-block;
+  }
+  
+  .footer .footer-contact a i {
+	margin-right: 10px;
+	font-size: 18px;
+	color: #38251E;
+  }
+  
+  .footer .footer-contact a:last-child i {
+	margin: 0;
+  }
+  
+  .footer .footer-contact a:hover i {
+	color: #0085ff;
+  }
+  
+  @media (max-width: 767.98px) {
+	.footer .footer-contact .col-md-4 {
+	  margin-bottom: 25px;
+	}
+  
+	.footer .footer-contact .col-md-4:last-child {
+	  margin: 0;
+	}
+  }
+  
+  .footer .copyright {
+	position: relative;
+	padding: 30px 0;
+	background: #D7A47C;
+  }
+  
+  .footer .copyright .copy-text p {
+	margin: 0;
+	font-size: 16px;
+	font-weight: 400;
+	color: #38251E;
+  }
+  
+  .footer .copyright .copy-text p a {
+	color: #dddddd;
+  }
+  
+  .footer .copyright .copy-text p a:hover {
+	color: #38251E;
+  }
+  
+  .footer .copyright .copy-menu {
+	position: relative;
+	font-size: 0;
+	text-align: right;
+  }
+  
+  .footer .copyright .copy-menu a {
+	color: #38251E;
+	font-size: 16px;
+	font-weight: 400;
+	margin-right: 15px;
+	padding-right: 15px;
+	border-right: 1px solid rgba(255, 255, 255, .3);
+  }
+  
+  .footer .copyright .copy-menu a:hover {
+	color: #41362F;
+  
+  	}
+		.footer .copyright .copy-menu a:last-child {
+	margin-right: 0;
+	padding-right: 0;
+	border-right: none;
+  }
+  
+  @media (max-width: 767.98px) {
+	.footer .copyright .copy-text,
+	.footer .copyright .copy-menu {
+	  text-align: center;
+	}
+  
+	.footer .copyright .copy-text p {
+	  margin-bottom: 5px;
+	}
+  
+  }
+  .acessibilidade{
+	background: #38251E;
+	color: #F0DDCA;
+  }
